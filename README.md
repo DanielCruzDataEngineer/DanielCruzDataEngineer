@@ -14,7 +14,7 @@ If you're looking for a data engineer to help you turn raw data into meaningful 
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@danielcruz.alu.lmb">
-  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+  <img align="left" alt="Medium" width="22px" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png" />
 </a>
 ##
 
