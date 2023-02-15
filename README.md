@@ -6,7 +6,8 @@ Eu tenho ampla experiência em projetar e construir pipelines de dados eficiente
 
 Minha experiência em projetar e implementar modelos e esquemas de dados otimizados para análise me permite entregar trabalhos de alta qualidade. Também tenho experiência em trabalhar com bancos de dados SQL e posso criar consultas e procedimentos complexos para ajudá-lo a aproveitar ao máximo seus dados.
 
-Se você está procurando um engenheiro de dados para ajudá-lo a transformar dados brutos em insights significativos, não procure mais! Estou confiante em minhas habilidades e adoraria discutir seu projeto em mais detalhes.
+> "Se você está procurando um engenheiro de dados para ajudá-lo a transformar dados brutos em insights significativos, não procure mais! Estou confiante em minhas habilidades e adoraria discutir seu projeto com mais detalhes." 
+
 
 
 ## Minhas redes
