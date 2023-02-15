@@ -13,9 +13,10 @@ If you're looking for a data engineer to help you turn raw data into meaningful 
 <a href="https://www.linkedin.com/in/danielcruzbianalytics/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="[[SeuPerfilDoMedium]](https://medium.com/@danielcruz.alu.lmb)">
+<a href="https://medium.com/@danielcruz.alu.lmb">
   <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
+##
 
 ## 🏆 Troféus
 
