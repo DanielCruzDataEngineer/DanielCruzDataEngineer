@@ -8,6 +8,12 @@ My expertise in designing and implementing data models and schemas optimized for
 
 If you're looking for a data engineer to help you turn raw data into meaningful insights, look no further! I'm confident in my abilities and would love to discuss your project in more detail.
 
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/danielcruzbianalytics/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 ## 🏆 Troféus
 
 ![troféus](https://github-profile-trophy.vercel.app/?username=DanielCruzDataEngineer&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true)
