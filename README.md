@@ -28,9 +28,4 @@ If you're looking for a data engineer to help you turn raw data into meaningful 
   </a>
 </p>
 
-## 🎥 GIF
-
-<p align="center">
-  <img src="https://www.showmetech.com.br/wp-content/uploads//2018/11/conheca-cursos-de-programacao-gratis-1132x600.jpg" width="400" height="300" />
-</p>
 
