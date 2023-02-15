@@ -6,7 +6,7 @@ Sou Engenheiro de Dados, e estou sempre buscando aprender mais e me desafiar em 
 
 ## 🏆 Troféus
 
-[![troféu](https://github-profile-trophy.vercel.app/?username=seu-username)](https://github.com/DanielCruzDataEngineer/github-profile-trophy)
+[![troféu](https://github-profile-trophy.vercel.app/?username=DanielCruzDataEngineer)](https://github.com/DanielCruzDataEngineer/github-profile-trophy)
 
 ## 📈 Estatísticas
 
