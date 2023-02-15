@@ -10,7 +10,8 @@ If you're looking for a data engineer to help you turn raw data into meaningful 
 
 ## 🏆 Troféus
 
-[![troféu](https://github-profile-trophy.vercel.app/?username=DanielCruzDataEngineer)](https://github.com/DanielCruzDataEngineer/github-profile-trophy)
+![troféus](https://github-profile-trophy.vercel.app/?username=[DanielCruzDataEngineer]&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true)
+
 
 ## 📈 Estatísticas
 
