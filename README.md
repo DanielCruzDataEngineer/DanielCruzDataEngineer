@@ -1,14 +1,15 @@
-# Hi there! I'm Daniel Cruz, a skilled data engineer. 👋
+# Olá! Sou Daniel Cruz, Engenheiro de Dados 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/DanielCruzDataEngineer.svg?style=social)](https://github.com/DanielCruzDataEngineer?tab=followers)
 
-I have extensive experience designing and building efficient and scalable data pipelines using technologies such as Apache Spark, Hadoop, and AWS services. I specialize in transforming raw data into meaningful insights that drive better decision-making through ETL (extract, transform, load) processes.
+Eu tenho ampla experiência em projetar e construir pipelines de dados eficientes e escaláveis usando tecnologias como Apache Spark, Hadoop e serviços da AWS. Eu me especializo em transformar dados brutos em insights significativos que impulsionam uma tomada de decisão melhor por meio de processos de ETL (extração, transformação e carga).
 
-My expertise in designing and implementing data models and schemas optimized for analytics enables me to deliver top-quality work. I am also well-versed in working with SQL databases and can create complex queries and procedures to help you make the most of your data.
+Minha experiência em projetar e implementar modelos e esquemas de dados otimizados para análise me permite entregar trabalhos de alta qualidade. Também tenho experiência em trabalhar com bancos de dados SQL e posso criar consultas e procedimentos complexos para ajudá-lo a aproveitar ao máximo seus dados.
 
-If you're looking for a data engineer to help you turn raw data into meaningful insights, look no further! I'm confident in my abilities and would love to discuss your project in more detail.
+Se você está procurando um engenheiro de dados para ajudá-lo a transformar dados brutos em insights significativos, não procure mais! Estou confiante em minhas habilidades e adoraria discutir seu projeto em mais detalhes.
 
-## Connect with Me
+
+## Minhas redes
 
 <a href="https://www.linkedin.com/in/danielcruzbianalytics/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
