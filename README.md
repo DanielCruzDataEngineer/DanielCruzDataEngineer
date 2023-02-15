@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel Cruz! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/seu-username.svg?style=social)](https://github.com/DanielCruzDataEngineer?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/DanielCruzDataEngineer.svg?style=social)](https://github.com/DanielCruzDataEngineer?tab=followers)
 
 Sou Engenheiro de Dados, e estou sempre buscando aprender mais e me desafiar em novos projetos. 
 
