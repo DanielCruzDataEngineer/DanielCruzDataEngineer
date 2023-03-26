@@ -1,44 +1,26 @@
-# Olá! Sou Daniel Cruz, Engenheiro de Dados 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/DanielCruzDataEngineer.svg?style=social)](https://github.com/DanielCruzDataEngineer?tab=followers)
-
-Eu tenho ampla experiência em projetar e construir pipelines de dados eficientes e escaláveis usando tecnologias como Apache Spark, Hadoop e serviços da AWS. Eu me especializo em transformar dados brutos em insights significativos que impulsionam uma tomada de decisão melhor por meio de processos de ETL (extração, transformação e carga).
-
-Minha experiência em projetar e implementar modelos e esquemas de dados otimizados para análise me permite entregar trabalhos de alta qualidade. Também tenho experiência em trabalhar com bancos de dados SQL e posso criar consultas e procedimentos complexos para ajudá-lo a aproveitar ao máximo seus dados.
-
-> "Se você está procurando um engenheiro de dados para ajudá-lo a transformar dados brutos em insights significativos, não procure mais! Estou confiante em minhas habilidades e adoraria discutir seu projeto com mais detalhes." 
+# 💫 About Me:
+🔭 I’m currently working on Data Engineering <br>🤝 I’m looking for help with Data Pipelines, Data Automation<br>🌱 I’m currently learning AWS, Data Processement<br>💬 Ask me about Big data<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DanielCruzBIAnalytics) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@danielcruz.alu.lmb) 
 
-## Minhas redes
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DanielCruzDataEngineer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DanielCruzDataEngineer&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCruzDataEngineer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://www.linkedin.com/in/danielcruzbianalytics/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://medium.com/@danielcruz.alu.lmb">
-  <img align="left" alt="Medium" width="22px" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png" />
-</a>
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DanielCruzDataEngineer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Troféus
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![troféus](https://github-profile-trophy.vercel.app/?username=DanielCruzDataEngineer&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true)
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-
-## 📈 Estatísticas
-
-[![seu-nome github stats](https://github-readme-stats.vercel.app/api?username=DanielCruzDataEngineer&show_icons=true&theme=radical)](https://github.com/DanielCruzDataEngineer)
-
-## 🛠️ Linguagens e Ferramentas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCruzDataEngineer&layout=compact)](https://github.com/DanielCruzDataEngineer)
-
-## My GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/DanielCruzDataEngineer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCruzDataEngineer&theme=highcontrast&hide_border=true" />
-  </a>
-</p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=DanielCruzDataEngineer&icon=0&color=1)](https://visitcount.itsvg.in)
 
